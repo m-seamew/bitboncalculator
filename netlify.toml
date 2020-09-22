@@ -1,4 +1,4 @@
-# The following redirect is intended for use with most SPA's that handles routing internally.
+# The redirect is intended for use with most SPA's that handles routing internally used Netify host
 [[redirects]]
   from = "/*"
   to = "/index.html"
